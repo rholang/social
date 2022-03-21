@@ -1,2 +1,0 @@
-import{f as l,i,b as o,L as a,t as s}from"./vendor.68a93192.js";const u=s("<div><div><strong>/hi</strong> route, built at: 2022-03-21T09:32:55.785Z</div><p>Hi: </p><br></div>");function c(){const n=l();return(()=>{const t=u.cloneNode(!0),r=t.firstChild,e=r.nextSibling;return e.firstChild,e.nextSibling,i(e,()=>n.name,null),i(t,o(a,{href:"/",children:"Go Home"}),null),t})()}export{c as default};
-//# sourceMappingURL=_name_.3a261276.js.map

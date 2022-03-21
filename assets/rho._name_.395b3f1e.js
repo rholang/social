@@ -1,0 +1,2 @@
+import{f as l,i,b as o,L as a,t as s}from"./rho.vendor.522bd2b0.js";const u=s("<div><div><strong>/hi</strong> route, built at: 2022-03-21T09:42:32.604Z</div><p>Hi: </p><br></div>");function c(){const n=l();return(()=>{const t=u.cloneNode(!0),r=t.firstChild,e=r.nextSibling;return e.firstChild,e.nextSibling,i(e,()=>n.name,null),i(t,o(a,{href:"/",children:"Go Home"}),null),t})()}export{c as default};
+//# sourceMappingURL=rho._name_.395b3f1e.js.map
